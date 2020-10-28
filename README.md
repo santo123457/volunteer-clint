@@ -11,6 +11,7 @@ An user can select a social activity to participate. Also they will be able sche
 - React.js
 - Node.js
 - React Router
+- React Hook Form
 - MongoDB
 - Express.js
 - Bootstrap
